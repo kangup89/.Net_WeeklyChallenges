@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\CopyingObjectsChallengeStarterCode\CopyObjectsUI\bin\Debug\CopyObjectsUI.exe.config
+D:\workspace\Visual Studio\weekly\CopyingObjectsChallengeStarterCode\CopyObjectsUI\bin\Debug\CopyObjectsUI.exe
+D:\workspace\Visual Studio\weekly\CopyingObjectsChallengeStarterCode\CopyObjectsUI\bin\Debug\CopyObjectsUI.pdb
+D:\workspace\Visual Studio\weekly\CopyingObjectsChallengeStarterCode\CopyObjectsUI\obj\Debug\CopyObjectsUI.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\CopyingObjectsChallengeStarterCode\CopyObjectsUI\obj\Debug\CopyObjectsUI.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\CopyingObjectsChallengeStarterCode\CopyObjectsUI\obj\Debug\CopyObjectsUI.exe
+D:\workspace\Visual Studio\weekly\CopyingObjectsChallengeStarterCode\CopyObjectsUI\obj\Debug\CopyObjectsUI.pdb

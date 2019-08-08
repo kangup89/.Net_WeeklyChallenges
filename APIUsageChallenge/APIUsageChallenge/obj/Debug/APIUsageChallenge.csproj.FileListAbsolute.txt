@@ -1,0 +1,12 @@
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\bin\Debug\APIUsageChallenge.exe.config
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\bin\Debug\APIUsageChallenge.exe
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\bin\Debug\APIUsageChallenge.pdb
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\bin\Debug\System.Net.Http.Formatting.dll
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\bin\Debug\System.Net.Http.Formatting.xml
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\obj\Debug\APIUsageChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\obj\Debug\APIUsageChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\obj\Debug\APIUsageChallenge.csproj.CopyComplete
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\obj\Debug\APIUsageChallenge.exe
+D:\workspace\Visual Studio\weekly\APIUsageChallenge\APIUsageChallenge\obj\Debug\APIUsageChallenge.pdb

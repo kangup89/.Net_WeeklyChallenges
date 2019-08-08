@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\GenericsChallenge\GenericsChallenge\bin\Debug\GenericsChallenge.exe.config
+D:\workspace\Visual Studio\weekly\GenericsChallenge\GenericsChallenge\bin\Debug\GenericsChallenge.exe
+D:\workspace\Visual Studio\weekly\GenericsChallenge\GenericsChallenge\bin\Debug\GenericsChallenge.pdb
+D:\workspace\Visual Studio\weekly\GenericsChallenge\GenericsChallenge\obj\Debug\GenericsChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\GenericsChallenge\GenericsChallenge\obj\Debug\GenericsChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\GenericsChallenge\GenericsChallenge\obj\Debug\GenericsChallenge.exe
+D:\workspace\Visual Studio\weekly\GenericsChallenge\GenericsChallenge\obj\Debug\GenericsChallenge.pdb

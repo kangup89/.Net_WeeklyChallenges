@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\FileManagementChallenge\FileManagementChallenge\bin\Debug\FileManagementChallenge.exe.config
+D:\workspace\Visual Studio\weekly\FileManagementChallenge\FileManagementChallenge\bin\Debug\FileManagementChallenge.exe
+D:\workspace\Visual Studio\weekly\FileManagementChallenge\FileManagementChallenge\bin\Debug\FileManagementChallenge.pdb
+D:\workspace\Visual Studio\weekly\FileManagementChallenge\FileManagementChallenge\obj\Debug\FileManagementChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\FileManagementChallenge\FileManagementChallenge\obj\Debug\FileManagementChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\FileManagementChallenge\FileManagementChallenge\obj\Debug\FileManagementChallenge.exe
+D:\workspace\Visual Studio\weekly\FileManagementChallenge\FileManagementChallenge\obj\Debug\FileManagementChallenge.pdb

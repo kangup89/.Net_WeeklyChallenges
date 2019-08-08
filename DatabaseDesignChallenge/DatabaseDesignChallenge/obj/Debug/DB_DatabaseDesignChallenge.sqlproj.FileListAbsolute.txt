@@ -1,0 +1,5 @@
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\bin\Debug\DB_DatabaseDesignChallenge.dacpac
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\bin\Debug\DatabaseDesignChallenge.dll
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\bin\Debug\DatabaseDesignChallenge.pdb
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\DatabaseDesignChallenge.dll
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\DatabaseDesignChallenge.pdb

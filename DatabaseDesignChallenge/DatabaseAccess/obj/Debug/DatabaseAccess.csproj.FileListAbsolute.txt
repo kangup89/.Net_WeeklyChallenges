@@ -1,0 +1,13 @@
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\bin\Debug\DatabaseAccess.exe.config
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\bin\Debug\DatabaseAccess.exe
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\bin\Debug\Dapper.dll
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\bin\Debug\Dapper.xml
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\obj\Debug\DatabaseAccess.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\obj\Debug\DatabaseAccess.CheckListView.resources
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\obj\Debug\DatabaseAccess.Properties.Resources.resources
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.GenerateResource.cache
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CopyComplete
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\obj\Debug\DatabaseAccess.exe
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseAccess\obj\Debug\DatabaseAccess.pdb

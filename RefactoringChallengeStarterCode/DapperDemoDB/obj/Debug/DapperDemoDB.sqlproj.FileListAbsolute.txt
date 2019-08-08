@@ -1,0 +1,20 @@
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.dacpac
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.dll
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\bin\Debug\DapperDemoDB.pdb
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.sqlprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\Model.xml
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\refactor.xml
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\postdeploy.sql
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\predeploy.sql
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.dll
+C:\Users\Tim\Source\Repos\DapperDemoDB\DapperDemoDB\obj\Debug\DapperDemoDB.pdb
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\bin\Debug\DapperDemoDB.dacpac
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\bin\Debug\DapperDemoDB.dll
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\bin\Debug\DapperDemoDB.pdb
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\DapperDemoDB.sqlprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\DapperDemoDB.dll
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\DapperDemoDB.pdb
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\Model.xml
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\refactor.xml
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\postdeploy.sql
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DapperDemoDB\obj\Debug\predeploy.sql

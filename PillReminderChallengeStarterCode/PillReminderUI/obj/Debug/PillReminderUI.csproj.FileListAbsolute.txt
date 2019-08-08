@@ -1,0 +1,20 @@
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\bin\Debug\PillReminderUI.exe.config
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\bin\Debug\PillReminderUI.exe
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\bin\Debug\PillReminderUI.pdb
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.ReminderWindow.resources
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.Properties.Resources.resources
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.csproj.GenerateResource.cache
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.exe
+C:\Users\Tim\Source\Repos\PillReminderApp\PillReminderUI\obj\Debug\PillReminderUI.pdb
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\bin\Debug\PillReminderUI.exe.config
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\bin\Debug\PillReminderUI.exe
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\bin\Debug\PillReminderUI.pdb
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\obj\Debug\PillReminderUI.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\obj\Debug\PillReminderUI.ReminderWindow.resources
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\obj\Debug\PillReminderUI.Properties.Resources.resources
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\obj\Debug\PillReminderUI.csproj.GenerateResource.cache
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\obj\Debug\PillReminderUI.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\obj\Debug\PillReminderUI.exe
+D:\workspace\Visual Studio\weekly\PillReminderChallengeStarterCode\PillReminderUI\obj\Debug\PillReminderUI.pdb

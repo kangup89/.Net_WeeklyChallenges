@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\RulesChallenge\RulesChallenge\bin\Debug\RulesChallenge.exe.config
+D:\workspace\Visual Studio\weekly\RulesChallenge\RulesChallenge\bin\Debug\RulesChallenge.exe
+D:\workspace\Visual Studio\weekly\RulesChallenge\RulesChallenge\bin\Debug\RulesChallenge.pdb
+D:\workspace\Visual Studio\weekly\RulesChallenge\RulesChallenge\obj\Debug\RulesChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\RulesChallenge\RulesChallenge\obj\Debug\RulesChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\RulesChallenge\RulesChallenge\obj\Debug\RulesChallenge.exe
+D:\workspace\Visual Studio\weekly\RulesChallenge\RulesChallenge\obj\Debug\RulesChallenge.pdb

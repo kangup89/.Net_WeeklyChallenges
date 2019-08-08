@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\CorrectChangeChallenge\CorrectChangeChallenge\bin\Debug\CorrectChangeChallenge.exe.config
+D:\workspace\Visual Studio\CorrectChangeChallenge\CorrectChangeChallenge\bin\Debug\CorrectChangeChallenge.exe
+D:\workspace\Visual Studio\CorrectChangeChallenge\CorrectChangeChallenge\bin\Debug\CorrectChangeChallenge.pdb
+D:\workspace\Visual Studio\CorrectChangeChallenge\CorrectChangeChallenge\obj\Debug\CorrectChangeChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\CorrectChangeChallenge\CorrectChangeChallenge\obj\Debug\CorrectChangeChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\CorrectChangeChallenge\CorrectChangeChallenge\obj\Debug\CorrectChangeChallenge.exe
+D:\workspace\Visual Studio\CorrectChangeChallenge\CorrectChangeChallenge\obj\Debug\CorrectChangeChallenge.pdb

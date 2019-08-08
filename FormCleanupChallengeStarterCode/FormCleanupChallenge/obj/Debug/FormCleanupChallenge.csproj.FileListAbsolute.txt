@@ -1,0 +1,11 @@
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\bin\Debug\FormCleanupChallenge.exe.config
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\bin\Debug\FormCleanupChallenge.exe
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\bin\Debug\FormCleanupChallenge.pdb
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.PersonForm.resources
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.Dashboard.resources
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.Properties.Resources.resources
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.csproj.GenerateResource.cache
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.exe
+D:\workspace\Visual Studio\weekly\FormCleanupChallengeStarterCode\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.pdb

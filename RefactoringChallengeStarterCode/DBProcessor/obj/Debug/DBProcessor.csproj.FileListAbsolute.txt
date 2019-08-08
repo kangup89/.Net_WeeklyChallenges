@@ -1,0 +1,10 @@
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\obj\Debug\DBProcessor.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\obj\Debug\DBProcessor.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\bin\Debug\DBProcessor.dll.config
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\bin\Debug\DBProcessor.dll
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\bin\Debug\DBProcessor.pdb
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\bin\Debug\Dapper.dll
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\bin\Debug\Dapper.xml
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\obj\Debug\DBProcessor.csproj.CopyComplete
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\obj\Debug\DBProcessor.dll
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBProcessor\obj\Debug\DBProcessor.pdb

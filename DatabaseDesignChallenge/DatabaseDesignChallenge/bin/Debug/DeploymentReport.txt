@@ -1,0 +1,19 @@
+﻿** 강조
+     다시 빌드될 테이블
+       없음
+     삭제될 클러스터형 인덱스
+       없음
+     생성될 클러스터형 인덱스
+       없음
+     데이터 문제가 있는 것 같습니다.
+       없음
+
+** 사용자 작업
+     만들기
+       [dbo].[Person] (테이블)
+       [dbo].[Present] (테이블)
+       [dbo].[FK_Person_Present] (외래 키)
+       [dbo].[spPerson_GetPeople] (프로시저)
+       [dbo].[spPerson_GetPersonNoPresent] (프로시저)
+
+** 지원 동작

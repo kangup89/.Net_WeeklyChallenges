@@ -1,0 +1,12 @@
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\bin\Debug\WinFormUI.exe.config
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\bin\Debug\WinFormUI.exe
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\bin\Debug\WinFormUI.pdb
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.MessageCreation.resources
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.SubDashboard.resources
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.exe
+D:\workspace\Visual Studio\weekly\FormCommunicationChallengeStarterCode\WinFormUI\obj\Debug\WinFormUI.pdb

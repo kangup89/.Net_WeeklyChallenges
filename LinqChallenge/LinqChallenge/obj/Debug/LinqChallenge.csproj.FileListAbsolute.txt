@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\LinqChallenge\LinqChallenge\bin\Debug\LinqChallenge.exe.config
+D:\workspace\Visual Studio\weekly\LinqChallenge\LinqChallenge\bin\Debug\LinqChallenge.exe
+D:\workspace\Visual Studio\weekly\LinqChallenge\LinqChallenge\bin\Debug\LinqChallenge.pdb
+D:\workspace\Visual Studio\weekly\LinqChallenge\LinqChallenge\obj\Debug\LinqChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\LinqChallenge\LinqChallenge\obj\Debug\LinqChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\LinqChallenge\LinqChallenge\obj\Debug\LinqChallenge.exe
+D:\workspace\Visual Studio\weekly\LinqChallenge\LinqChallenge\obj\Debug\LinqChallenge.pdb

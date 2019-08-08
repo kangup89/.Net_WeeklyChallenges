@@ -1,0 +1,17 @@
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.deps.json
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.runtimeconfig.json
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.runtimeconfig.dev.json
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.dll
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\XUnitTestProject1.pdb
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\CalculationsLibrary.dll
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\bin\Debug\netcoreapp2.2\CalculationsLibrary.pdb
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.AssemblyInfoInputs.cache
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.AssemblyInfo.cs
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.csproj.CopyComplete
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.dll
+D:\workspace\Visual Studio\weekly\UnitTestChallengeStarterCode\XUnitTestProject1\obj\Debug\netcoreapp2.2\XUnitTestProject1.pdb

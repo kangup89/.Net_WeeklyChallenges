@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\PrimeNumberChallenge\PrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.exe.config
+D:\workspace\Visual Studio\weekly\PrimeNumberChallenge\PrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.exe
+D:\workspace\Visual Studio\weekly\PrimeNumberChallenge\PrimeNumberChallenge\bin\Debug\PrimeNumberChallenge.pdb
+D:\workspace\Visual Studio\weekly\PrimeNumberChallenge\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\PrimeNumberChallenge\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\PrimeNumberChallenge\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.exe
+D:\workspace\Visual Studio\weekly\PrimeNumberChallenge\PrimeNumberChallenge\obj\Debug\PrimeNumberChallenge.pdb

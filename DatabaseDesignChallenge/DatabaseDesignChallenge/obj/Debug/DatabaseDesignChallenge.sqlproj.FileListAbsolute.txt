@@ -1,0 +1,10 @@
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\bin\Debug\DatabaseDesignChallenge.dacpac
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\bin\Debug\DatabaseDesignChallenge.dll
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\bin\Debug\DatabaseDesignChallenge.pdb
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\DatabaseDesignChallenge.sqlprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\Model.xml
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\refactor.xml
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\postdeploy.sql
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\predeploy.sql
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\DatabaseDesignChallenge.dll
+D:\workspace\Visual Studio\weekly\DatabaseDesignChallenge\DatabaseDesignChallenge\obj\Debug\DatabaseDesignChallenge.pdb

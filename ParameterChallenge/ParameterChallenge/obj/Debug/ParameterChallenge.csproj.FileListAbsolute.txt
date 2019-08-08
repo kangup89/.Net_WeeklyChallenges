@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\ParameterChallenge\ParameterChallenge\bin\Debug\ParameterChallenge.exe.config
+D:\workspace\Visual Studio\weekly\ParameterChallenge\ParameterChallenge\bin\Debug\ParameterChallenge.exe
+D:\workspace\Visual Studio\weekly\ParameterChallenge\ParameterChallenge\bin\Debug\ParameterChallenge.pdb
+D:\workspace\Visual Studio\weekly\ParameterChallenge\ParameterChallenge\obj\Debug\ParameterChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\ParameterChallenge\ParameterChallenge\obj\Debug\ParameterChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\ParameterChallenge\ParameterChallenge\obj\Debug\ParameterChallenge.exe
+D:\workspace\Visual Studio\weekly\ParameterChallenge\ParameterChallenge\obj\Debug\ParameterChallenge.pdb

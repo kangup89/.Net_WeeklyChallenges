@@ -1,0 +1,24 @@
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\bin\Debug\TextFileChallenge.exe.config
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\bin\Debug\TextFileChallenge.exe
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\bin\Debug\TextFileChallenge.pdb
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\obj\Debug\TextFileChallenge.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\obj\Debug\TextFileChallenge.ChallengeForm.resources
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\obj\Debug\TextFileChallenge.Properties.Resources.resources
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.GenerateResource.cache
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\obj\Debug\TextFileChallenge.exe
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\obj\Debug\TextFileChallenge.pdb
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\bin\Debug\AdvancedDataSet.csv
+C:\Users\Tim\Source\Repos\TextFileChallenge\TextFileChallenge\bin\Debug\StandardDataSet.csv
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\bin\Debug\AdvancedDataSet.csv
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\bin\Debug\StandardDataSet.csv
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\bin\Debug\TextFileChallenge.exe.config
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\bin\Debug\TextFileChallenge.exe
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\bin\Debug\TextFileChallenge.pdb
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.ChallengeForm.resources
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.Properties.Resources.resources
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.GenerateResource.cache
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.exe
+D:\workspace\Visual Studio\weekly\TextFileChallengeStarterCode\TextFileChallenge\obj\Debug\TextFileChallenge.pdb

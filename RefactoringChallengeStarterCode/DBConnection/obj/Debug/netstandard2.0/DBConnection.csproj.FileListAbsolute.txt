@@ -1,0 +1,4 @@
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBConnection\obj\Debug\netstandard2.0\DBConnection.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBConnection\obj\Debug\netstandard2.0\DBConnection.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBConnection\obj\Debug\netstandard2.0\DBConnection.AssemblyInfoInputs.cache
+D:\workspace\Visual Studio\weekly\RefactoringChallengeStarterCode\DBConnection\obj\Debug\netstandard2.0\DBConnection.AssemblyInfo.cs

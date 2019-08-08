@@ -1,0 +1,18 @@
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\bin\Debug\DemoLibrary.dll
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\bin\Debug\ConsoleUI.exe
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\bin\Debug\ConsoleUI.pdb
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.exe
+e:\temp\demos\ErrorHandlingChallenge\ConsoleUI\obj\Debug\ConsoleUI.pdb
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\bin\Debug\DemoLibrary.dll
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\workspace\Visual Studio\weekly\ErrorHandlingChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.pdb

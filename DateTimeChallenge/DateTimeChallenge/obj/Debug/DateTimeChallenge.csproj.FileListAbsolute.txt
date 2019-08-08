@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\DateTimeChallenge\DateTimeChallenge\bin\Debug\DateTimeChallenge.exe.config
+D:\workspace\Visual Studio\DateTimeChallenge\DateTimeChallenge\bin\Debug\DateTimeChallenge.exe
+D:\workspace\Visual Studio\DateTimeChallenge\DateTimeChallenge\bin\Debug\DateTimeChallenge.pdb
+D:\workspace\Visual Studio\DateTimeChallenge\DateTimeChallenge\obj\Debug\DateTimeChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\DateTimeChallenge\DateTimeChallenge\obj\Debug\DateTimeChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\DateTimeChallenge\DateTimeChallenge\obj\Debug\DateTimeChallenge.exe
+D:\workspace\Visual Studio\DateTimeChallenge\DateTimeChallenge\obj\Debug\DateTimeChallenge.pdb

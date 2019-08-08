@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.exe.config
+D:\workspace\Visual Studio\weekly\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.exe
+D:\workspace\Visual Studio\weekly\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.pdb
+D:\workspace\Visual Studio\weekly\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.exe
+D:\workspace\Visual Studio\weekly\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.pdb

@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\PalindromeChallenge\PalindromeChallenge\bin\Debug\PalindromeChallenge.exe.config
+D:\workspace\Visual Studio\weekly\PalindromeChallenge\PalindromeChallenge\bin\Debug\PalindromeChallenge.exe
+D:\workspace\Visual Studio\weekly\PalindromeChallenge\PalindromeChallenge\bin\Debug\PalindromeChallenge.pdb
+D:\workspace\Visual Studio\weekly\PalindromeChallenge\PalindromeChallenge\obj\Debug\PalindromeChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\PalindromeChallenge\PalindromeChallenge\obj\Debug\PalindromeChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\PalindromeChallenge\PalindromeChallenge\obj\Debug\PalindromeChallenge.exe
+D:\workspace\Visual Studio\weekly\PalindromeChallenge\PalindromeChallenge\obj\Debug\PalindromeChallenge.pdb

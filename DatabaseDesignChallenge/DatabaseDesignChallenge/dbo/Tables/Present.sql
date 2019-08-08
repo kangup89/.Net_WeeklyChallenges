@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Present]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Name] NVARCHAR(50) NOT NULL, 
+    [Cost] INT NULL
+)

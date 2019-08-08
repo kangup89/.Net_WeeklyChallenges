@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\TruckRentalChallenge\TruckRentalChallenge\bin\Debug\TruckRentalChallenge.exe.config
+D:\workspace\Visual Studio\weekly\TruckRentalChallenge\TruckRentalChallenge\bin\Debug\TruckRentalChallenge.exe
+D:\workspace\Visual Studio\weekly\TruckRentalChallenge\TruckRentalChallenge\bin\Debug\TruckRentalChallenge.pdb
+D:\workspace\Visual Studio\weekly\TruckRentalChallenge\TruckRentalChallenge\obj\Debug\TruckRentalChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\TruckRentalChallenge\TruckRentalChallenge\obj\Debug\TruckRentalChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\TruckRentalChallenge\TruckRentalChallenge\obj\Debug\TruckRentalChallenge.exe
+D:\workspace\Visual Studio\weekly\TruckRentalChallenge\TruckRentalChallenge\obj\Debug\TruckRentalChallenge.pdb

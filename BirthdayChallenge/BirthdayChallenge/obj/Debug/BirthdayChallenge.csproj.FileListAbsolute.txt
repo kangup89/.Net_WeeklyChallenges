@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\BirthdayChallenge\BirthdayChallenge\bin\Debug\BirthdayChallenge.exe.config
+D:\workspace\Visual Studio\weekly\BirthdayChallenge\BirthdayChallenge\bin\Debug\BirthdayChallenge.exe
+D:\workspace\Visual Studio\weekly\BirthdayChallenge\BirthdayChallenge\bin\Debug\BirthdayChallenge.pdb
+D:\workspace\Visual Studio\weekly\BirthdayChallenge\BirthdayChallenge\obj\Debug\BirthdayChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\BirthdayChallenge\BirthdayChallenge\obj\Debug\BirthdayChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\BirthdayChallenge\BirthdayChallenge\obj\Debug\BirthdayChallenge.exe
+D:\workspace\Visual Studio\weekly\BirthdayChallenge\BirthdayChallenge\obj\Debug\BirthdayChallenge.pdb

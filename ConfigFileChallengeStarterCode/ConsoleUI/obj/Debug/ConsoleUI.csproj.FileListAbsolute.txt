@@ -1,0 +1,7 @@
+D:\workspace\Visual Studio\weekly\ConfigFileChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\ConfigFileChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\ConfigFileChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\workspace\Visual Studio\weekly\ConfigFileChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\workspace\Visual Studio\weekly\ConfigFileChallengeStarterCode\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\workspace\Visual Studio\weekly\ConfigFileChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\workspace\Visual Studio\weekly\ConfigFileChallengeStarterCode\ConsoleUI\obj\Debug\ConsoleUI.pdb

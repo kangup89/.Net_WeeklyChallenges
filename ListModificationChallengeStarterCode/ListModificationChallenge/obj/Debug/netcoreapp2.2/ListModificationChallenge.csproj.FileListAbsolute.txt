@@ -1,0 +1,11 @@
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\bin\Debug\netcoreapp2.2\ListModificationChallenge.deps.json
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\bin\Debug\netcoreapp2.2\ListModificationChallenge.runtimeconfig.json
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\bin\Debug\netcoreapp2.2\ListModificationChallenge.runtimeconfig.dev.json
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\bin\Debug\netcoreapp2.2\ListModificationChallenge.dll
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\bin\Debug\netcoreapp2.2\ListModificationChallenge.pdb
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\obj\Debug\netcoreapp2.2\ListModificationChallenge.csprojAssemblyReference.cache
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\obj\Debug\netcoreapp2.2\ListModificationChallenge.csproj.CoreCompileInputs.cache
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\obj\Debug\netcoreapp2.2\ListModificationChallenge.AssemblyInfoInputs.cache
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\obj\Debug\netcoreapp2.2\ListModificationChallenge.AssemblyInfo.cs
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\obj\Debug\netcoreapp2.2\ListModificationChallenge.dll
+D:\workspace\Visual Studio\weekly\ListModificationChallengeStarterCode\ListModificationChallenge\obj\Debug\netcoreapp2.2\ListModificationChallenge.pdb
